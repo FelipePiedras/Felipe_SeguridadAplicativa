@@ -12,7 +12,7 @@ Actividad #5.
 
 6.- Puerto del protocolo http.  puerto 80
 
-7.- Puerto del protocolo https.  puerto 8080
+7.- Puerto del protocolo https.  puerto 430
 
 8.- Diferencia entre http y https. En https la información se cifra, a diferencia de http, que es texto plano. 
 

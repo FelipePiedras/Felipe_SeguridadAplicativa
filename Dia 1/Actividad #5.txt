@@ -1,0 +1,38 @@
+Actividad #5. 
+
+1.- ¿Qué es una red? Conjunto de dispositivos que siguen reglas pre establecidas para comunicarce. 
+
+2.- ¿Qué es el modelo TCP/IP? Es un estandar en para que los dispositivos se puedan comunicar correctamente, conformado por cinco capas, con caracteristicas especificas (fisica, data link, network, transporte, aplicacacion). 
+
+3.- ¿Qué es una ip? Es un identificador, conformado por cuatro octetos (ipv4) 
+
+4.- ¿qué es el protocolo tcp? Transport Control Protocol, con la caracteristica de recovery error mediante headers 
+
+5.- Dentro del protocolo tcp, ¿que es el protocolo http? Por sus siglas en ingles, Hyper text transpotr protocol, la comunicacion con cliente  - servidor mediante peticiones
+
+6.- Puerto del protocolo http.  puerto 80
+
+7.- Puerto del protocolo https.  puerto 8080
+
+8.- Diferencia entre http y https. En https la información se cifra, a diferencia de http, que es texto plano. 
+
+9.- ¿qué significa el modelo cliente - servidor. Un cliente se comunica con un servidor mediante peticiones, ejemplo http, regresando el 200 si todo va bien y 404 si hubo alguna complicacion. 
+
+10.- ¿qué es una petición (request)? Solicitud una comunicación. 
+
+11.- ¿qué es una respuesta (respose)? La respuesta del servidor despuestes de una solicitud.
+
+12.- Secciones de una petición. Header. 
+
+13.- secciones de una respuesta. ...
+
+14.- El codifo de respuesta 404 y 500 a qué se refiere? El 400 a que hubo un error en la solicitud y no se encontró.
+
+15.- Lenguajes de programación para el lado del servidor (back end). Java, sql, phynton.  
+
+16.- Lenguajes de programación para el lado del servidor (front end). javascript, html, css.
+
+17.- ¿qué es burp suite? ...
+
+
+ 

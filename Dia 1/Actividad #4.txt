@@ -1,0 +1,39 @@
+1.- Escribir un programa que muestre en pantalla los numeros del 1 al 100, sustituyendo los multiplos de 3 por la palabra "fizz", los multiplos de 5 por "buzz" y los multiplos de 3 y 5 (o de 15) por una palabra "fizzbuzz"
+
+Inicio del programa. 
+
+Con ayuda de un for iremos generando los numeros del 1 al 100. Mientras estos se van generando se iran pasando por diferentes if.
+
+El primer if será uno en el que si el numero analizado es multiplo de 3 se imprimira en pantalla la palabra "fizz", esto mediante el modulo de 3 igual a cero.
+
+El segundo caso, si es multiplo de 5 se imprimirá en pantalla la palabra "buzz", mientras el modulo de 5 sea igual a 0. 
+
+El tercero si es multiplo de 3 y de 5 se mandará a pantalla "fizzbuzz", es decir que el modulo de 3 Y modulo de 5 sea igual a cero. 
+
+En caso contrario, es decir que no cumpla con ninguno de los tres casos descritos anteriomente, se imprimirá en pantalla el número que esta siendo analizado.
+
+ 
+//En todos los casos se dejará aparte del numero, o palabra, un espacio para que la serie del 1 al 100 quede separada y sea facil de leer//
+
+
+El ciclo for terminará cuando se llegue al numero 100.
+
+Fin del programa. 
+
+
+
+2.- Escribe un programa que muestre en pantalla una tabla de multiplicación del 1 al 10. 
+
+
+Inicio de programa.
+
+Se declara un for anidadado en el que se comenzará en 1 y terminará en 10. Declarando i para el primer for y x para el segundo. 
+
+Dentro del segundo for declararemos una variable r , que se le asignará el resultado de i * x. 
+
+Se mandan a imprimir los valores en pantalla, en los cuales imprimiremos los valores i y de x, para que el ususaria sepa que operaacion se está realizando y con sus respectivos signis de * y de = , en el resultao pondremos r, dando un salto de linea. 
+
+Finalmente, mostrará en pantalla. 
+
+
+Fin del programa. 

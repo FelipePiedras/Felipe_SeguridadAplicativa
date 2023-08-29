@@ -1,0 +1,1 @@
+sudo useradd -m -p hola -s /bin/zsh -c"act2" $1;

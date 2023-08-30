@@ -1,0 +1,21 @@
+print(" 1.- Suma de dos numeros \n 2.-Resta de dos numeros \n 3.- Multipliexitcacion de dos numeros \n 4.- Division entre dos numeros ")
+op =int( input("En que te ayudo?: "))
+
+num1 = int(  input("Primer valor: "))
+num2 = int (input("Segundo valor: "))
+
+
+def suma(num1 , num2): return num1 + num2
+def resta(num1, num2): return num1 - num2
+def multiplicacion(num1 , num2): return num1 * num2
+def divi(num1 , num2): return num1 / num2
+
+if (op ==1): print(suma(num1,num2))
+    
+elif (op ==2 ): print(resta(num1,num2))
+
+elif (op == 3): print (multiplicacion(num1,num2))
+
+elif (op == 4): print (divi(num1, num2))
+
+else: print ("opcion no valida!")

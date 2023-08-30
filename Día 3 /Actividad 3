@@ -1,0 +1,36 @@
+#De la siguiente lista realizar las funciones que obtengan lo siguiente: 
+#Obtener el promedio 
+#La cantidad de aspirantes que reprobaron. 
+
+x = [8,9,10,6,6,7,8,9,5,6,7,6,8,8,9,9,5,6,7,9,10,7,8,9,9]
+
+
+
+def promedio(): 
+    suma = 0
+    numero = 0
+    promedio = 0
+    
+    for i in x: 
+        suma = suma + i
+        numero = numero +1
+        if (len(x) == numero): 
+            print("promedio: ",(suma/numero))
+            break
+
+
+def reprobaron (): 
+    reprobados = 0
+    
+    
+    for i in x: 
+        if (i<=5):
+            reprobados = reprobados + 1
+    
+    print ("reprobados: ", reprobados)
+    return reprobados
+
+    
+    
+reprobaron()                  
+promedio()   

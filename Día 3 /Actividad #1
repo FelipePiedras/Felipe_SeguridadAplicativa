@@ -1,0 +1,10 @@
+
+palabra = "Anitalavalatina"
+palabra = palabra.lower(); 
+pali = palabra[::-1]
+
+if(palabra == pali):
+ print ("Es un palindromo")
+ 
+else: 
+ print ("No es un palindromo")
